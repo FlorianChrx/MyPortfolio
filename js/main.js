@@ -13,15 +13,6 @@
     }
   });
 
-
-  //age
-  function age(birthday) {
-    birthday = new Date(birthday);
-    return new Number((new Date().getTime() - birthday.getTime()) / 31536000000).toFixed(0);
-  }
-
-  $('.age').html(age(new Date(2000, 12, 18)));
-
   // Closes responsive menu when a scroll trigger link is clicked
   $('.js-scroll-trigger').click(function() {
     $('.navbar-collapse').collapse('hide');
