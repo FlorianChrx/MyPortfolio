@@ -9662,6 +9662,11 @@ html {
   height: 100%;
 }
 
+.icon {
+  width: 80px;
+  height: 80px;
+}
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }

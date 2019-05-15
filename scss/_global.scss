@@ -5,6 +5,11 @@ html {
   height: 100%;
 }
 
+.icon {
+  width: 80px;
+  height: 80px;
+}
+
 // Typography
 .text-white-75 {
   color: fade-out($white, .25);
