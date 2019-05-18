@@ -1,8 +1,0 @@
-.geToolbarContainer, .geDialog, .geEditor *, .geMenubarMenu *, .mxPopupMenu * { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
-table.mxPopupMenu hr { margin-top: 0; margin-bottom: 0; }
-
-.geSidebarTooltip * { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
-.geStyleButton { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-.modal-dialog * { -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important; }
-
-.suggestPopupContent table { width: 100%; }
