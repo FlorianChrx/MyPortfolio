@@ -9702,6 +9702,11 @@ hr.light {
   background-color: #f4623a;
 }
 
+.img-projet {
+  height: 350px;
+  width: 350px;
+}
+
 #mainNav, .mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
