@@ -9667,6 +9667,20 @@ html {
     display: none;
   }
 }
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #f4623a;
+}
+
+a:hover h2 {
+  font-weight: bold;
+}
+
 .icon {
   width: 80px;
   height: 80px;

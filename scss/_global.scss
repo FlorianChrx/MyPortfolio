@@ -9,6 +9,17 @@ html {
     #map {
         display: none;
     }
+  
+a {
+  color: black;
+}
+  
+a:hover{
+  text-decoration: none;
+  color: $primary;
+  h2 {
+    font-weight: bold;
+  }
 }
 
 .icon {
