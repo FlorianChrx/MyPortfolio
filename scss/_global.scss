@@ -5,9 +5,15 @@ html {
   height: 100%;
 }
 
+@media only screen and (max-width: 1024px) {
+    #map {
+        display: none;
+    }
+  
 a {
   color: black;
 }
+  
 a:hover{
   text-decoration: none;
   color: $primary;
